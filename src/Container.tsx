@@ -485,9 +485,9 @@ const styles = StyleSheet.create({
     elevation: 4,
   },
   tabBarContainer: {
-    zIndex: 1,
+    zIndex: 2,
   },
   headerContainer: {
-    zIndex: 2,
+    zIndex: 1,
   },
 })
